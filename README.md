@@ -4,7 +4,7 @@ Human-readable JSON route definitions for REST resource models.
 
 ## Installation
 
-Install using [npm][0]:
+Install using [npm](https://npmjs.org/):
 
 ```sh
 npm install resource-route
@@ -69,6 +69,3 @@ route({
 ```
 
 ## MIT Licensed
-
-[npm][0]: https://npmjs.org/
-
