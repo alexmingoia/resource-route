@@ -1,0 +1,22 @@
+{
+  "name": "resource-route",
+  "version": "0.1.0",
+  "description": "Human-readable JSON route definitions for REST resource models.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alexmingoia/resource-route.git"
+  },
+  "main": "./lib/route.js",
+  "devDependencies": {
+    "expect.js": "~0.2.0",
+    "mocha": "~1.16.1",
+    "express": "~3.4.7"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test"
+  },
+  "engines": {
+    "node": ">= 0.8"
+  },
+  "license": "MIT"
+}
