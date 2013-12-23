@@ -1,6 +1,6 @@
 {
   "name": "resource-route",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Human-readable JSON route definitions for REST resource models.",
   "repository": {
     "type": "git",
